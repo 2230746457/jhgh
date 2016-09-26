@@ -1,0 +1,6 @@
+F:\新建文件夹 (2)\考勤系统\DAL\bin\Debug\DAL.dll
+F:\新建文件夹 (2)\考勤系统\DAL\bin\Debug\DAL.pdb
+F:\新建文件夹 (2)\考勤系统\DAL\bin\Debug\Model.dll
+F:\新建文件夹 (2)\考勤系统\DAL\bin\Debug\Model.pdb
+F:\新建文件夹 (2)\考勤系统\DAL\obj\Debug\DAL.dll
+F:\新建文件夹 (2)\考勤系统\DAL\obj\Debug\DAL.pdb
